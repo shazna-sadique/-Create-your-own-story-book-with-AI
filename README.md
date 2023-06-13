@@ -1,3 +1,5 @@
+![image13](https://github.com/shazna-sadique/StoryWriter/assets/55852938/dbc5251e-bad2-4b3d-b1aa-062f810f9b4d)
+
 # StoryWriter
 
 ##Problem Statement  
@@ -20,6 +22,9 @@ A need for children to create their own captivating storybooks which enhance chi
  
  - integrated grammerly sdk on textfield (client id is empty , give ur own client id form grammerly)
   https://www.grammarly.com/blog/developer/grammarly-text-editor-sdk-generally-available/  (click on try sdk and choose reactjs)
+  
+  
+  
   
   ##future features:-
   - integrating dalle
