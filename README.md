@@ -27,4 +27,6 @@ A need for children to create their own captivating storybooks which enhance chi
   - publish the story book 
   - engaging design element in the textfield ui 
 
+
+here is an image of the current DEMO UI
 ![image13](https://github.com/shazna-sadique/StoryWriter/assets/55852938/57a936ae-1ae4-4876-b939-0f47d506d5cb)
